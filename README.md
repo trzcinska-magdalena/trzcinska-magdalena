@@ -7,9 +7,10 @@ ________________________________________________________________________________
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trzcinska-magdalena&layout=compact&langs_count=8&theme=buefy"/>   
 </div>
 __________________________________________________________________________________________________________________________
+
 ### Technologies
-<img src="[https://skillicons.dev/icons?i=html,css,sass,bootstrap,js](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)" />
-<img src="[https://skillicons.dev/icons?i=idea,visualstudi](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)o" />
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 
 
 
