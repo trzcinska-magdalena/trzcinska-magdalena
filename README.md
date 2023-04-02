@@ -6,6 +6,8 @@ ________________________________________________________________________________
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trzcinska-magdalena&layout=compact&langs_count=8&theme=buefy"/>
 __________________________________________________________________________________________________________________________
 ### Technologies
+
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -15,6 +17,8 @@ ________________________________________________________________________________
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ________________________________________________________________________________________________________________________
 ### Contact with me
+
+
 <a href="https://www.linkedin.com/in/magdalena-trzci%C5%84ska-268873208/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn" width="21px"/></a>
 <a href="https://www.linkedin.com/in/magdalena-trzci%C5%84ska-268873208/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/gmail.svg" alt="Gmail" width="21px"/></a>
 
