@@ -16,9 +16,9 @@ ________________________________________________________________________________
 
 ### Contact with me
 
-
-<a href="https://www.linkedin.com/in/magdalena-trzci%C5%84ska-268873208/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn" width="21px"/></a>
-<a href="https://www.linkedin.com/in/magdalena-trzci%C5%84ska-268873208/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/gmail.svg" alt="Gmail" width="21px"/></a>
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) trzcinskamagdalena01@gmail.com
+<br>
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) www.linkedin.com/in/magdalena
 __________________________________________________________________________________________________________________________
 
 ### Stats
