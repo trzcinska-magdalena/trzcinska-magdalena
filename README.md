@@ -18,7 +18,8 @@ ________________________________________________________________________________
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) trzcinskamagdalena01@gmail.com
 <br>
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/magdalena-trzci%C5%84ska-268873208/
+
+<a href="https://www.linkedin.com/in/magdalena-trzci%C5%84ska-268873208/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 __________________________________________________________________________________________________________________________
 
 ### Stats
