@@ -3,7 +3,8 @@
 * future developer
 __________________________________________________________________________________________________________________________
 ### Stats
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trzcinska-magdalena&layout=compact&langs_count=8&theme=radical"/>   
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trzcinska-magdalena&layout=compact&langs_count=8"/>   
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs"/>
 __________________________________________________________________________________________________________________________
 
 
