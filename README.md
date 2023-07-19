@@ -1,5 +1,5 @@
 ### Hi I'm Magda! 👋
-* 3rd year computer science student
+* 4rd year computer science student
 * future developer
 __________________________________________________________________________________________________________________________
 
