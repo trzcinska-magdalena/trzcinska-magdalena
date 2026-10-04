@@ -8,19 +8,27 @@ ________________________________________________________________________________
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-555555?style=for-the-badge)
 ![Functional Testing](https://img.shields.io/badge/Functional%20Testing-555555?style=for-the-badge)
 ![Regression Testing](https://img.shields.io/badge/Regression%20Testing-555555?style=for-the-badge)
+![API Testing](https://img.shields.io/badge/API%20Testing-555555?style=for-the-badge)
 ![Test Cases](https://img.shields.io/badge/Test%20Cases-555555?style=for-the-badge)
 ![UAT](https://img.shields.io/badge/UAT-555555?style=for-the-badge)
 
 ### Technologies & Tools
 
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=173647)]
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)]
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)]
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)]
+![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)]
+![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)]
+![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)]
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 __________________________________________________________________________________________________________________________
@@ -45,10 +53,6 @@ ________________________________________________________________________________
 <a href="https://www.linkedin.com/in/magdalena-trzci%C5%84ska-268873208/">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 __________________________________________________________________________________________________________________________
-
-### GitHub Stats
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trzcinska-magdalena&layout=compact&langs_count=8&theme=buefy"/>
 
 <!--
 ### Currently Learning
